@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # JShielder v2.4
-# Deployer for Ubuntu Server 18.04 LTS y adaptado a proyectoFOC POR J Martín
+# Deployer for Ubuntu Server 18.04 LTS y adaptado POR J Martín
 #
 
 source helpers.sh
