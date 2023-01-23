@@ -1,10 +1,9 @@
 # Scripts básicos para ubuntu 22.04
 
-- Herramientas básicas para montar servicios en ubuntu linux 22.04 LTS
-
 - El archivo Lamp: monta nginx, apache y php 7.4
+- El archivo hardUbu es un scritp de hardening básico para ubuntu linux 22.04 LTS
 
-El arvivo Fork...es una versión de Jshielder para asegurar un ubuntu server vesrion 22.04
+El arvivo hardUbu es un Fork...es una versión de Jshielder para asegurar un ubuntu server vesrion 22.04
 En esta versión , he quitado configuraciones no necesarias para levantar un WordPress en mi opinión y alguna configuración demasiado personalizada que no he podido analizar .
 
 ***** JSHIELDER es el original en lo que se refiere a el script de hardening *******
