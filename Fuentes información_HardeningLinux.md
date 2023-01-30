@@ -1,0 +1,30 @@
+# Fuentes información
+UBUNTU: sistema operativo
+
+- [ ]  https://ubuntu.com/security/certifications
+
+INCIBE : Instituto nacional de ciberseguridad.
+
+- [ ]  https://www.incibe-cert.es/seminarios-web/hardening-basico-linux
+
+Ambos módulos están basado en otra versión de Ubuntu la 18.
+
+Se puede obtener información de:
+
+Recomendaciones de blindaje de UBUNTU por Centro de ciberseguridad de UK
+
+- [ ]  https://github.com/ukncsc/Device-Security-Guidance-Configuration-Packs/tree/main/Linux/UbuntuLTS
+
+- [ ]  https://www.ncsc.gov.uk/collection/device-security-guidance/platform-guides/ubuntu-lts
+
+CN-CERT Centro criptológico nacional : alertas
+
+- [ ]  https://www.ccn-cert.cni.es/seguridad-al-dia/alertas-ccn-cert.html
+
+Guía básica de hardening Linux de https://www.linkedin.com/in/jfimlaid/
+
+- [ ] https://www.nuharborsecurity.com/ubuntu-server-hardening-guide-2/
+
+Git hardening Ubuntu ( https://github.com/konstruktoid )
+
+- [ ]  https://github.com/konstruktoid/hardening/blob/master/README.adoc
