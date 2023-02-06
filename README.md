@@ -46,20 +46,19 @@ BLINDAJE SISTEMA OPERATIVO
 - [ ] Configurar la ip fija 
 - [ ] Asegurar SINGLE USER (arranque seguro) 
 - [ ] Configurar el acceso por SSH 
-- [ ] ASEGURO SSH, permisos y solo el usuario remoto1 permitido. 
-- [ ] En el script: requisito previo: contraseña y usuario root. 
-- [ ] Añadir y comprobar repositorios 
+- [ ] ASEGURO SSH, permisos y solo el usuario remoto1 permitido. (/sshd_config) 
+- [ ] Añadir y comprobar repositorios  (add-apt-repository universe)
 - [ ] Actualizar el sistema 
-- [ ] Configurar el nombre del HOST. 
-- [ ] Configurar: hora y zona horaria 
-- [ ] Configurar SERVICIOS básicos -ntp 
-- [ ] Definir políticas de acceso para USUARIOS Y GRUPOS
-- [ ] Caducidad o el intervalo de tiempo de cambio de las contraseñas. 
-- [ ] Definir permisos de ficheros y directorios por defecto 
-- [ ] Políticas de creación de nuevos usuarios.-/ Login.defs 
-- [ ] Archivo de configuración del perfil - /profile 
-- [ ] Configuro tiempos de inactividad. /profile 
-- [ ] Ahora aseguramos, las consolas alternativas /etc/passwd 
+- [ ] Configurar el nombre del HOST. (/etc/hostname - automatizado en script)
+- [ ] Configurar: hora y zona horaria (sudo timedatectl set-timezone Europe/Madrid)
+- [ ] Configurar SERVICIOS básicos -ntp (systemctl enable systemd-timesyncd.service  nano /etc/systemd/timesyncd.conf)
+- [ ] Definir políticas de acceso para USUARIOS Y GRUPOS  (apt-get install libpam-pwquality)
+- [ ] Caducidad o el intervalo de tiempo de cambio de las contraseñas. (nano /etc/pam.d/common-password)
+- [ ] Definir permisos de ficheros y directorios por defecto (nano /etc/login.defs
+- [ ] Políticas de creación de nuevos usuarios.-/ (Login.defs)
+- [ ] Archivo de configuración del perfil - (/etc/profile) 
+- [ ] Configuro tiempos de inactividad. (/etc/profile)
+- [ ] Ahora aseguramos, las consolas alternativas (/etc/passwd) 
 - [ ] Deshabilitar los sistemas de archivos no utilizados. 
 - [ ] Deshabilitar los protocolos de red no usados. 
 
