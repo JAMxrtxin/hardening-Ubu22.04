@@ -10,10 +10,12 @@ En esta versión , he quitado configuraciones no necesarias para levantar un Wor
 
 ***** JSHIELDER es el original en lo que se refiere a el script de hardening *******
 
-El original está en : https://github.com/Jsitech/JShielder
+El trabajo original que inspira el mío, está en : https://github.com/Jsitech/JShielder
 Documentado y explicado en : https://jsitech1.gitbooks.io/jshielder-linux-server-hardening-script/content/jshielder1.html
 
-***** es un MAGNIFICO DE TRABAJO DE JSHIELDER ***************************************
+***** es un MAGNIFICO DE TRABAJO DE JSHIELDER **************************************
+
+
 
 Más información sobre como blindar un sistema Linux.
  - https://ubuntu.com/security/certifications/docs
