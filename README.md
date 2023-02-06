@@ -19,7 +19,7 @@ Documentado y explicado en : https://jsitech1.gitbooks.io/jshielder-linux-server
 
 Más información sobre como blindar un sistema Linux.
  - https://ubuntu.com/security/certifications/docs
- - Ubuntu chanel -> https://youtu.be/wyEX0eyoK88
+ - Ubuntu canal  -> https://youtu.be/wyEX0eyoK88
 
 _______________________________________________________________________________________________________________
 
