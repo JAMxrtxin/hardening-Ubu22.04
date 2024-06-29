@@ -1,12 +1,11 @@
+Esto no es más que un ejercicio de hardening sobre linux. Los comentarios y el texto obedecen a eso.
+
 # Scripts básicos para ubuntu 22.04
 
-- El archivo Lamp: monta nginx, apache y php 7.4
 - El archivo hardUbu es un scritp de hardening básico para ubuntu linux 22.04 LTS
 
-La carpeta templates, copia ficheros personalizados para asegurar el sistema.
-
 El arvivo hardUbu es un Fork...es una versión de Jshielder para asegurar un ubuntu server vesrion 22.04
-En esta versión , he quitado configuraciones no necesarias para levantar un WordPress en mi opinión y alguna configuración demasiado personalizada que no he podido analizar .
+En mi personalización he quitado configuraciones no necesarias para levantar un WordPress y alguna configuración demasiado personalizada que no he podido analizar .
 
 ***** JSHIELDER es el original en lo que se refiere a el script de hardening *******
 
@@ -14,7 +13,6 @@ El trabajo original que inspira el mío, está en : https://github.com/Jsitech/J
 Documentado y explicado en : https://jsitech1.gitbooks.io/jshielder-linux-server-hardening-script/content/jshielder1.html
 
 ***** es un MAGNIFICO DE TRABAJO DE JSHIELDER **************************************
-
 
 
 Más información sobre como blindar un sistema Linux.
